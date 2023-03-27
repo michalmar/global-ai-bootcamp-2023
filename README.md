@@ -18,10 +18,10 @@ This is repository for **Microsoft Global AI Bootcamp** in Prague, 29th March [r
 
 | Lab name | Link |
 |----------|------|
-| Lab 01 - Azure Open AI Intro | [labs\Lab-01_openAI_getting_started.ipynb](labs\Lab-01_openAI_getting_started.ipynb) |
-| Lab 02 - Completions | [labs\Lab-02_completions_example_sdk.ipynb](labs\Lab-02_completions_example_sdk.ipynb) |
-| Lab 03 - Embeddings| [labs\Lab-03_basic_embeddings_example_sdk.ipynb](labs\Lab-03_basic_embeddings_example_sdk.ipynb)|
-| Lab 04 - ChatGPT conversations|[labs\Lab-04_chatGPT_managing_conversation.ipynb](labs\Lab-04_chatGPT_managing_conversation.ipynb)|
+| Lab 01 - Azure Open AI Intro | [labs/Lab-01_openAI_getting_started.ipynb](labs/Lab-01_openAI_getting_started.ipynb) |
+| Lab 02 - Completions | [labs/Lab-02_completions_example_sdk.ipynb](labs/Lab-02_completions_example_sdk.ipynb) |
+| Lab 03 - Embeddings| [labs/Lab-03_basic_embeddings_example_sdk.ipynb](labs/Lab-03_basic_embeddings_example_sdk.ipynb)|
+| Lab 04 - ChatGPT conversations|[labs/Lab-04_chatGPT_managing_conversation.ipynb](labs/Lab-04_chatGPT_managing_conversation.ipynb)|
 
 ## Lab 1: Getting Started
 
@@ -33,7 +33,7 @@ In this lab, you will learn how to set up your Azure OpenAI account and get star
 - Learn how to generate and manage API keys
 - Make requests to the Azure OpenAI API
 
-link: [labs\Lab-01_openAI_getting_started.ipynb](labs\Lab-01_openAI_getting_started.ipynb) 
+link: [labs/Lab-01_openAI_getting_started.ipynb](labs/Lab-01_openAI_getting_started.ipynb) 
 
 
 ## Lab 2: Azure OpenAI Completions API
@@ -47,7 +47,7 @@ In this lab, you will learn how to use the Azure OpenAI Completions API to gener
 - Learn how to use the API to generate text completions
 - Use the API to generate text in different contexts
 
-link: [labs\Lab-02_completions_example_sdk.ipynb](labs\Lab-02_completions_example_sdk.ipynb)
+link: [labs/Lab-02_completions_example_sdk.ipynb](labs/Lab-02_completions_example_sdk.ipynb)
 
 ## Lab 3: Embeddings
 
@@ -60,7 +60,7 @@ In this lab, you will learn about embeddings and how they are used in Azure Open
 - Learn how to use embeddings to analyze text
 - Use embeddings to generate recommendations
 
-link: [labs\Lab-03_basic_embeddings_example_sdk.ipynb](labs\Lab-03_basic_embeddings_example_sdk.ipynb)
+link: [labs/Lab-03_basic_embeddings_example_sdk.ipynb](labs/Lab-03_basic_embeddings_example_sdk.ipynb)
 
 ## Lab 4: ChatGPT
 
@@ -73,4 +73,4 @@ In this lab, you will learn how to use ChatGPT, a powerful model created by Open
 - Use ChatGPT to generate responses to user input
 - Mange conversation using ChatGPT
 
-link: [labs\Lab-04_chatGPT_managing_conversation.ipynb](labs\Lab-04_chatGPT_managing_conversation.ipynb)
+link: [labs/Lab-04_chatGPT_managing_conversation.ipynb](labs/Lab-04_chatGPT_managing_conversation.ipynb)
