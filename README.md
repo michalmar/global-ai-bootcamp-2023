@@ -4,17 +4,12 @@ This is repository for **Microsoft Global AI Bootcamp** in Prague, 29th March [r
 
 
 ## Prerequisities
-- Azure Subscription - [AzurePasss Codes](./codes.md)
-- Azure OpenAI
+- Azure Subscription
+- Azure OpenAI - [ask for the access](https://aka.ms/oai/access) 
 
 
 ## Install/Prepare environment
 1. Create Azure OpenAI
-
-`API_KEY = "e4691e5a683a4c8d932e35797ca76800"`
-
-`RESOURCE_ENDPOINT = "https://openai-bootcamp-mma.openai.azure.com/"`
-
 
 1. [OPTIONAL] Create Azure Machine Learning (or use your own IDE/Python environment) - [how to creat Azure Machine Learning workspace](./create-azureml.md)
 
