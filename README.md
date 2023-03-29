@@ -4,7 +4,7 @@ This is repository for **Microsoft Global AI Bootcamp** in Prague, 29th March [r
 
 
 ## Prerequisities
-- Azure Subscription
+- Azure Subscription - [AzurePasss Codes](./codes.md)
 - Azure OpenAI
 
 
