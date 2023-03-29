@@ -10,8 +10,8 @@ This is repository for **Microsoft Global AI Bootcamp** in Prague, 29th March [r
 
 ## Install/Prepare environment
 1. Create Azure OpenAI
-1. [OPTIONAL] Create Azure Machine Learning (or use your own IDE/Python environment)
-1. [OPTIONAL] Create a compute instance in Azure Machine Learning
+1. [OPTIONAL] Create Azure Machine Learning (or use your own IDE/Python environment) - [how to creat Azure Machine Learning workspace](./create-azureml.md)
+
 1. Upload labs folder to your environment
 
 ## Labs
